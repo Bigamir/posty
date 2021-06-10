@@ -1,11 +1,11 @@
 {
-  "token": "Nzc0OTQyMzQ0NTAzMjMwNDg1.X6fHTA.9lxCXxh72ut7RYj2SaXJPWao7Vg",
+  "token": "",
   "default_prefix": "+",
   "everyoneMention": false,
   "hostedBy": true,
   "botsCanWin": false,
   "dev": "745766921131130991",
   "YOUTUBE_API_KEY": "AIzaSyB66sqobgbnGACZSM-Apf6g8NMbYwG0i3I",
-  "clientID": "774942344503230485",
-  "clientSecret": "QzGU8EgT6hO6MfdotLf3ARfK2V95EC_x"
+  "clientID": "",
+  "clientSecret": ""
 }
